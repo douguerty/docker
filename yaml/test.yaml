@@ -1,0 +1,37 @@
+# Instruções para o programa
+nome: "Alisson"
+idade: 27
+
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
+
+versao: 2
+versao_completa: 3.24
+
+com_aspas: "Texto com aspas"
+sem_aspas: Texto sem aspas
+
+dado_nulo_1: ~
+dado_nulo_2: null
+
+verdadeiro_1: True
+verdadeiro_2: On
+
+falso_1: false
+falso_2: off
+
+lista_1: [1, 2, 3]
+lista_2:
+  - "teste"
+  - 10
+  - Outro teste
+  - true
+
+obj_1: {a: 1, b: true, c: off, d: texto}
+obj_2:
+  a: 1
+  b: True
+  c: off
+  obj_interno:
+    d: texto
